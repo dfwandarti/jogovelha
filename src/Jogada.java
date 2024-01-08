@@ -3,7 +3,6 @@ public enum Jogada {
     PESSOA,
     COMPUTADOR;
 
-
     public char letraParaTabuleiro() {
         if (this == NENHUMA) return ' ';
         if (this == PESSOA) return 'O';
