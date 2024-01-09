@@ -6,6 +6,7 @@ public class JogoVelha {
     Tabuleiro tabuleiro = new Tabuleiro();
     Jogada jogadorGanhador = null;
 
+
     public static void main(String[] args) throws Exception {
         new JogoVelha().jogar();
     }
