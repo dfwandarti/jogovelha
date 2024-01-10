@@ -51,7 +51,7 @@ public class JogoVelha {
             System.out.println("O jogo acabou por falta de jogadas.");
         } else {
             if (this.jogadorGanhador == Jogada.PESSOA) {
-                System.out.println("Você ganhou. Parabéns!");
+                System.out.println("Você Ganhou. Parabéns!");
             } else {
                 System.out.println("Ha, perdeu para um Computador com zero inteligência!");
             }
