@@ -53,7 +53,7 @@ public class JogoVelha {
             if (this.jogadorGanhador == Jogada.PESSOA) {
                 System.out.println("Você ganhou. Parabéns!");
             } else {
-                System.out.println("Ha, perdeu para um Computador com zero inteligência!");
+                System.out.println("Ha, perdeu para um Computador com Zero inteligência!");
             }
         }
     }
