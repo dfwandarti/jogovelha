@@ -41,7 +41,7 @@ public class JogoVelha {
         new ProcessBuilder("cmd", "/c", "cls").inheritIO().start().waitFor();
 
         System.out.println("Bem vindo ao jogo da velha");
-        System.out.println("Você joga com O, eu jogo com X.\n");
+        System.out.println("Você joga com O, eu Jogo com X.\n");
     }
 
     private void imprimeResultadoFinal() {
